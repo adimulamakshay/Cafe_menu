@@ -1,0 +1,105 @@
+p {
+    text-align: center;
+}
+
+#menu {
+    padding: 20px;
+    width: 80%;
+    max-width: 500px;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.established,.date{
+    font-style: italic;
+    align-content: center;
+    width:auto;
+    background-color: rgb(215, 123, 52);
+    margin-right: auto;
+    margin-left: auto;
+}
+body
+{
+    padding: 20px;
+    font-family: sans-serif;
+    background-image: url("coffee.jpeg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    width: 30px;
+    height: 35px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.coffee_element{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.coffee,.icon{
+    display: inline;
+}
+.dessert_tag,.pie_icon{
+    display: inline;
+}
+.dessert_element{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dessert,.flavor{
+    width: 75%;
+    text-align: left;
+}
+.price{
+    width: 25%;
+    text-align: right;
+}
+.item p{
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+h2{
+    text-align: center;
+    margin-top: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+hr{
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+.bottom-line{
+    margin-bottom: 25px;
+  }
+footer{
+    font-size: 14px;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: grey;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: wheat;
+}
+.address{
+    margin-bottom: 5px;
+}
